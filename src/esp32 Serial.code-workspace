@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/esp32 Serial"
+		},
+		{
+			"name": "Prueba asd",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ctime": "cpp",
+			"string": "cpp"
+		}
+	}
+}
